@@ -1,0 +1,5 @@
+C:\Users\INTEL\Documents\DIO.TESTE\obj\Debug\net5.0\DIO.TESTE.csproj.AssemblyReference.cache
+C:\Users\INTEL\Documents\DIO.TESTE\obj\Debug\net5.0\DIO.TESTE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INTEL\Documents\DIO.TESTE\obj\Debug\net5.0\DIO.TESTE.AssemblyInfoInputs.cache
+C:\Users\INTEL\Documents\DIO.TESTE\obj\Debug\net5.0\DIO.TESTE.AssemblyInfo.cs
+C:\Users\INTEL\Documents\DIO.TESTE\obj\Debug\net5.0\DIO.TESTE.csproj.CoreCompileInputs.cache
